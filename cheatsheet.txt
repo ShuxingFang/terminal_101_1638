@@ -1,0 +1,17 @@
+pwd -> gives me my current location in the file system
+ls -> list all the folders and files
+ll -> list all the folders and files
+cd -> move to another directory
+cd .. -> moves to the parent folder
+mkdir new_folder_name -> creates a new folder
+touch new_file -> create a new file
+rm filename -> removes a file
+re -rf folder_name -> removes a folder
+mv filename foldername -> moving a file
+mv filename new_filename -> renames a file
+
+code . -> opes folder in vs code
+
+cat filename -> shows content of the file in the terminal
+
+open -> opens a file in the file explorer
